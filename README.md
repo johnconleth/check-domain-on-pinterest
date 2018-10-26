@@ -1,4 +1,4 @@
 # check-domain-on-pinterest
-Very simple bot to check if domain has pins on Pinterest
+Very simple bot to check if domain has pins on Pinterest, domain works and update IP address of domain on Cloudlfare
 
-Download and run Check-Domains-on-Pinterest.exe
+Download and run Domain-Tools.exe
